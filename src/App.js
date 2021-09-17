@@ -7,7 +7,21 @@ import StandbyBlock from "./components/StandbyBlock";
 function App () {
 
   return (
-    <>
+    <>      
+    <div class="row">
+      <div class="column">
+        <StandbyBlock />
+      </div>
+
+      <div class="column">
+        <PlayingBlock />
+      </div>
+
+      <div class="column">
+        <DqBlock />
+      </div>
+    </div>`
+    
       <DqBlock />
       <PlayingBlock />
       <StandbyBlock />
