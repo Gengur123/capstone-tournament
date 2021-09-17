@@ -1,4 +1,5 @@
 # Today's todo list
+-https://developer.smash.gg/docs/glossary
 
 ## Component Tree
 <img src="src/img/Diagram.png" alt="Diagram">
