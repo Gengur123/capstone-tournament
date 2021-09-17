@@ -2,6 +2,8 @@
 -https://developer.smash.gg/docs/glossary
 - Research on Api's and react apis
 - More and more research
+- https://www.google.com/amp/s/rapidapi.com/blog/how-to-use-an-api-with-react/amp/
+
 ## Component Tree
 <img src="src/img/Diagram.png" alt="Diagram">
 
