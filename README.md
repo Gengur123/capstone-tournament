@@ -1,6 +1,7 @@
 # Today's todo list
 -https://developer.smash.gg/docs/glossary
-
+- Research on Api's and react apis
+- More and more research
 ## Component Tree
 <img src="src/img/Diagram.png" alt="Diagram">
 
