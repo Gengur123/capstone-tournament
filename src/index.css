@@ -1,9 +1,13 @@
 .row {
   display: flex;
+  text-align: center;
+  background-color: aquamarine;
 }
 
 .column {
   border: 2px solid black;
+
+  
 
   /* flex-grow: 1;
   flex-shrink: 1;
