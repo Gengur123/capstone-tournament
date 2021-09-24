@@ -5,6 +5,7 @@
 - https://www.google.com/amp/s/rapidapi.com/blog/how-to-use-an-api-with-react/amp/
 - https://www.youtube.com/watch?v=rpg1jOvGCtQ
 - https://www.learnhowtoprogram.com/react/react-with-apis/apis-and-further-exploration-objectives
+- https://developer.smash.gg/explorer/
 
 ## Component Tree
 <img src="src/img/Diagram.png" alt="Diagram">
