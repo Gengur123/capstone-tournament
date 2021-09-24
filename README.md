@@ -6,6 +6,7 @@
 - https://www.youtube.com/watch?v=rpg1jOvGCtQ
 - https://www.learnhowtoprogram.com/react/react-with-apis/apis-and-further-exploration-objectives
 - https://developer.smash.gg/explorer/
+- working on Api lesson
 
 ## Component Tree
 <img src="src/img/Diagram.png" alt="Diagram">
