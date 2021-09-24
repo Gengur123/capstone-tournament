@@ -8,6 +8,7 @@
 - https://developer.smash.gg/explorer/
 - working on Api lesson still working on it 
 - still working on lesson 
+- figured out how to make a api request with smash gg!
 
 ## Component Tree
 <img src="src/img/Diagram.png" alt="Diagram">
