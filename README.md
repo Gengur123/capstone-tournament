@@ -9,6 +9,8 @@
 - working on Api lesson still working on it 
 - still working on lesson 
 - figured out how to make a api request with smash gg!
+- https://www.apollographql.com/docs/react/get-started/
+- https://medium.com/@stubailo/how-to-call-a-graphql-server-with-axios-337a94ad6cf9
 
 ## Component Tree
 <img src="src/img/Diagram.png" alt="Diagram">
