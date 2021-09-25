@@ -5,13 +5,15 @@
 - https://www.google.com/amp/s/rapidapi.com/blog/how-to-use-an-api-with-react/amp/
 - https://www.youtube.com/watch?v=rpg1jOvGCtQ
 - https://www.learnhowtoprogram.com/react/react-with-apis/apis-and-further-exploration-objectives
-- https://developer.smash.gg/explorer/
-- working on Api lesson still working on it 
-- still working on lesson 
-- figured out how to make a api request with smash gg!
-- https://www.apollographql.com/docs/react/get-started/
-- https://medium.com/@stubailo/how-to-call-a-graphql-server-with-axios-337a94ad6cf9
-- https://stackoverflow.com/questions/43014034/setting-authorization-header-in-axios
+
+9-10 - https://developer.smash.gg/explorer/
+10-11 - working on Api lesson still working on it 
+11-12 - still working on lesson 
+1-2   - figured out how to make a api request with smash gg!
+2-3 - https://www.apollographql.com/docs/react/get-started/
+3-4 - https://medium.com/@stubailo/how-to-call-a-graphql-server-with-axios-337a94ad6cf9
+     - https://stackoverflow.com/questions/43014034/setting-authorization-header-in-axios
+5-6 - https://create-react-app.dev/docs/adding-custom-environment-variables/
 
 ## Component Tree
 <img src="src/img/Diagram.png" alt="Diagram">
