@@ -11,6 +11,7 @@
 - figured out how to make a api request with smash gg!
 - https://www.apollographql.com/docs/react/get-started/
 - https://medium.com/@stubailo/how-to-call-a-graphql-server-with-axios-337a94ad6cf9
+- https://stackoverflow.com/questions/43014034/setting-authorization-header-in-axios
 
 ## Component Tree
 <img src="src/img/Diagram.png" alt="Diagram">
